@@ -1,0 +1,479 @@
+TPresidents
+v7
+r0
+t423371511.495412
+cCheck dependencies
+cProcessInfoPlistFile "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/Info.plist" Presidents/Presidents-Info.plist
+cProcessPCH /var/folders/xy/_nn_6hcs2wg4_flb8wzmkz3m0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Presidents-Prefix-behouhkhyrjannevcuydnummshso/Presidents-Prefix.pch.gch Presidents/Presidents-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/AppDelegate.o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/MasterViewController.o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/SecondaryViewController.o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/main.o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/DetailViewController.o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCpResource build/Debug-iphonesimulator/Presidents.app/Images.xcassets Presidents/Images.xcassets
+cCpResource build/Debug-iphonesimulator/Presidents.app/111-user.png Presidents/../../../../../Documents/Presidents/111-user.png
+cCpResource build/Debug-iphonesimulator/Presidents.app/108-badge.png Presidents/../../../../../Documents/Presidents/108-badge.png
+cCopyPlistFile "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/PresidentList.plist" Presidents/../../../../../Documents/Presidents/PresidentList.plist
+cCopyStringsFile "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/en.lproj/InfoPlist.strings" Presidents/en.lproj/InfoPlist.strings
+cCpResource build/Debug-iphonesimulator/Presidents.app/Base.lproj/Main.storyboard Presidents/Base.lproj/Main.storyboard
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/../../../../../Documents/Presidents/108-badge.png
+c0000000052B9DAAC0000000000000C45
+t1387911852
+s3141
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/../../../../../Documents/Presidents/111-user.png
+c0000000052B9DAA80000000000000BBC
+t1387911848
+s3004
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/../../../../../Documents/Presidents/PresidentList.plist
+c000000005347155A0000000000004E6B
+t1397167450
+s20075
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.h
+c000000005382AE52000000000000011B
+t1401073234
+s283
+i<UIKit/UIKit.h>
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m
+c000000005382AE5200000000000008FB
+t1401073234
+s2299
+i"AppDelegate.h"
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Base.lproj/Main.storyboard
+c0000000053854E540000000000003747
+t1401245268
+s14151
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h
+c000000005382AE52000000000000017D
+t1401073234
+s381
+i<UIKit/UIKit.h>
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m
+c000000005382AE52000000000000081B
+t1401073234
+s2075
+i"DetailViewController.h"
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Images.xcassets
+c000000005382AE520000000000000088
+t1401073234
+s136
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.h
+c00000000538BEB500000000000000192
+t1401678672
+s402
+i<UIKit/UIKit.h>
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m
+c00000000538BEB500000000000000E40
+t1401678672
+s3648
+i"MasterViewController.h"
+i"SecondaryViewController.h"
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Presidents-Prefix.pch
+c000000005382AE520000000000000158
+t1401073234
+s344
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h
+c000000005382CD530000000000000193
+t1401081171
+s403
+i<UIKit/UIKit.h>
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m
+c000000005382CD530000000000001004
+t1401081171
+s4100
+i"SecondaryViewController.h"
+i"DetailViewController.h"
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/en.lproj/InfoPlist.strings
+c000000005382AE52000000000000002D
+t1401073234
+s45
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m
+c000000005382AE520000000000000157
+t1401073234
+s343
+i<UIKit/UIKit.h>
+i"AppDelegate.h"
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app
+t2
+s0
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app.dSYM
+t2
+s0
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/108-badge.png
+t1401678710
+s3141
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/111-user.png
+t1401678710
+s3004
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/Base.lproj/Main.storyboard
+t1401678711
+s14151
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/Images.xcassets
+t1401678710
+s136
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/Info.plist
+t1401678708
+s1035
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/PkgInfo
+t1401678708
+s8
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/PresidentList.plist
+t1401678711
+s6234
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/Presidents
+t2
+s0
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/en.lproj/InfoPlist.strings
+t1401678711
+s42
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/DetailViewController.o
+t2
+s0
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/MasterViewController.o
+t2
+s0
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/Presidents.LinkFileList
+c00000000538BEB740000000000000332
+t1401678708
+s818
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/SecondaryViewController.o
+t2
+s0
+
+N/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/xy/_nn_6hcs2wg4_flb8wzmkz3m0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Presidents-Prefix-behouhkhyrjannevcuydnummshso/Presidents-Prefix.pch.gch
+t1401678710
+s15846832
+
+NPresidents/Presidents-Info.plist
+c000000005382AE5200000000000006A9
+t1401073234
+s1705
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies423371508#423371508#0(0"0(0#1#0"17196381184#0"0#
+
+CCompileC build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/AppDelegate.o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s423371510.105524
+e423371510.357768
+r0
+xCompileC
+xbuild/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/AppDelegate.o
+x/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m:9:
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.h:13: error: expected a property attribute before 'strong'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m: In function '-[AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m:16: error: request for member 'window' in something not a structure or union
+lSLF07#2@95"Compile /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m423371510#423371510#0(585"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m:9:/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.h:13: error: expected a property attribute before 'strong'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m: In function '-[AppDelegate application:didFinishLaunchingWithOptions:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m:16: error: request for member 'window' in something not a structure or union2(4@45"Expected a property attribute before 'strong'423371510#113#145#2(7@109"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m423371510#18446744073709551615#0#0(6@87"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m422766034#9#0#9#0#0"0(13@136"Expected a property attribute before 'strong' in /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.h423371510#18446744073709551615#0#0(6@87"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.h422766034#13#0#13#0#0"0(6@87"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.h422766034#13#0#13#0#19"expected * before *0(4@65"Request for member 'window' in something not a structure or union423371510#420#165#0(6@87"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m422766034#16#0#16#0#0"0(0#0#87"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m17189720832#2318"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-generated-files.hmap" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-own-target-headers.hmap" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-all-target-headers.hmap" -iquote "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-project-headers.hmap" "-F/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/include" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources/i386" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources" -include /var/folders/xy/_nn_6hcs2wg4_flb8wzmkz3m0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Presidents-Prefix-behouhkhyrjannevcuydnummshso/Presidents-Prefix.pch -c "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.m" -o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/AppDelegate.o"1#
+
+CCompileC build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/DetailViewController.o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s423371510.438556
+e423371510.504121
+r0
+xCompileC
+xbuild/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/DetailViewController.o
+x/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:9:
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h:13: error: expected a property attribute before 'strong'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h:15: error: expected a property attribute before 'weak'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:12: error: expected a property attribute before 'strong'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m: In function '-[DetailViewController setDetailItem:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:22: error: '_detailItem' undeclared (first use in this function)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:22: error: (Each undeclared identifier is reported only once
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:22: error: for each function it appears in.)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:29: error: request for member 'masterPopoverController' in something not a structure or union
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:30: error: request for member 'masterPopoverController' in something not a structure or union
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m: In function '-[DetailViewController configureView]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:38: error: request for member 'detailItem' in something not a structure or union
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:39: error: request for member 'detailDescriptionLabel' in something not a structure or union
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:39: error: request for member 'detailItem' in something not a structure or union
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m: In function '-[DetailViewController splitViewController:willHideViewController:withBarButtonItem:forPopoverController:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:62: error: request for member 'masterPopoverController' in something not a structure or union
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m: In function '-[DetailViewController splitViewController:willShowViewController:invalidatingBarButtonItem:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:69: error: request for member 'masterPopoverController' in something not a structure or union
+lSLF07#2@104"Compile /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m423371510#423371510#0(3084"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:9:/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h:13: error: expected a property attribute before 'strong'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h:15: error: expected a property attribute before 'weak'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:12: error: expected a property attribute before 'strong'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m: In function '-[DetailViewController setDetailItem:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:22: error: '_detailItem' undeclared (first use in this function)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:22: error: (Each undeclared identifier is reported only once/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:22: error: for each function it appears in.)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:29: error: request for member 'masterPopoverController' in something not a structure or union/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:30: error: request for member 'masterPopoverController' in something not a structure or union/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m: In function '-[DetailViewController configureView]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:38: error: request for member 'detailItem' in something not a structure or union/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:39: error: request for member 'detailDescriptionLabel' in something not a structure or union/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:39: error: request for member 'detailItem' in something not a structure or union/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m: In function '-[DetailViewController splitViewController:willHideViewController:withBarButtonItem:forPopoverController:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:62: error: request for member 'masterPopoverController' in something not a structure or union/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m: In function '-[DetailViewController splitViewController:willShowViewController:invalidatingBarButtonItem:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m:69: error: request for member 'masterPopoverController' in something not a structure or union11(4@45"Expected a property attribute before 'strong'423371510#122#154#2(7@118"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m423371510#18446744073709551615#0#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m422766034#9#0#9#0#0"0(13@145"Expected a property attribute before 'strong' in /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h423371510#18446744073709551615#0#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h422766034#13#0#13#0#0"0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h422766034#13#0#13#0#19"expected * before *0(4@43"Expected a property attribute before 'weak'423371510#276#152#2(7@118"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m423371510#18446744073709551615#0#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m422766034#9#0#9#0#0"0(13@143"Expected a property attribute before 'weak' in /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h423371510#18446744073709551615#0#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h422766034#15#0#15#0#0"0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h422766034#15#0#15#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'423371510#428#154#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m422766034#12#0#12#0#19"expected * before *0(4@53"'_detailItem' undeclared (first use in this function)423371510#734#162#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m422766034#22#0#22#0#43"'*' undeclared (first use in this function)0(4@82"Request for member 'masterPopoverController' in something not a structure or union423371510#1196#191#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m422766034#29#0#29#0#0"0(4@82"Request for member 'masterPopoverController' in something not a structure or union423371510#1387#191#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m422766034#30#0#30#0#0"0(4@69"Request for member 'detailItem' in something not a structure or union423371510#1729#178#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m422766034#38#0#38#0#0"0(4@81"Request for member 'detailDescriptionLabel' in something not a structure or union423371510#1907#190#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m422766034#39#0#39#0#0"0(4@69"Request for member 'detailItem' in something not a structure or union423371510#2097#178#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m422766034#39#0#39#0#0"0(4@82"Request for member 'masterPopoverController' in something not a structure or union423371510#2495#191#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m422766034#62#0#62#0#0"0(4@82"Request for member 'masterPopoverController' in something not a structure or union423371510#2893#191#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m422766034#69#0#69#0#0"0(0#0#96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m4317954048#2336"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-generated-files.hmap" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-own-target-headers.hmap" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-all-target-headers.hmap" -iquote "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-project-headers.hmap" "-F/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/include" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources/i386" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources" -include /var/folders/xy/_nn_6hcs2wg4_flb8wzmkz3m0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Presidents-Prefix-behouhkhyrjannevcuydnummshso/Presidents-Prefix.pch -c "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.m" -o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/DetailViewController.o"1#
+
+CCompileC build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/MasterViewController.o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s423371510.127746
+e423371510.356197
+r0
+xCompileC
+xbuild/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/MasterViewController.o
+x/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:9:
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.h:15: error: expected a property attribute before 'strong'
+oIn file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:10:
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h:15: error: expected a property attribute before 'strong'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h:16: error: expected a property attribute before 'strong'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:12: error: expected identifier or '(' before '{' token
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController awakeFromNib]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:24: error: request for member 'preferredContentSize' in something not a structure or union
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:24: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:24: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController viewDidLoad]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:35: warning: undeclared selector 'insertNewObject:'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController insertNewObject:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:47: error: '_objects' undeclared (first use in this function)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:47: error: (Each undeclared identifier is reported only once
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:47: error: for each function it appears in.)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:53: error: expected expression before '@' token
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:53: warning: 'UITableView' may not respond to '-insertRowsAtIndexPaths:'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:53: warning: (Messages without a matching method signature
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:53: warning: will be assumed to return 'id' and accept
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:53: warning: '...' as arguments.)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:52: warning: unused variable 'indexPath'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController tableView:numberOfRowsInSection:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:65: error: '_objects' undeclared (first use in this function)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController tableView:cellForRowAtIndexPath:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:70: warning: 'UITableView' may not respond to '-dequeueReusableCellWithIdentifier:forIndexPath:'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:72: error: '_objects' undeclared (first use in this function)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController tableView:commitEditingStyle:forRowAtIndexPath:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:86: error: '_objects' undeclared (first use in this function)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:87: error: expected expression before '@' token
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:87: warning: 'UITableView' may not respond to '-deleteRowsAtIndexPaths:'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: At top level:
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:112: error: expected ')' before 'UIStoryboardSegue'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController prepareForSegue:sender:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:114: error: request for member 'secondaryViewController' in something not a structure or union
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:114: warning: no '-destinationViewController' method found
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:118: error: request for member 'secondaryViewController' in something not a structure or union
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:118: error: '_objects' undeclared (first use in this function)
+lSLF07#2@104"Compile /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371510#423371510#0(5983"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:9:/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.h:15: error: expected a property attribute before 'strong'In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:10:/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h:15: error: expected a property attribute before 'strong'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h:16: error: expected a property attribute before 'strong'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:12: error: expected identifier or '(' before '{' token/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController awakeFromNib]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:24: error: request for member 'preferredContentSize' in something not a structure or union/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:24: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:24: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController viewDidLoad]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:35: warning: undeclared selector 'insertNewObject:'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController insertNewObject:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:47: error: '_objects' undeclared (first use in this function)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:47: error: (Each undeclared identifier is reported only once/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:47: error: for each function it appears in.)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:53: error: expected expression before '@' token/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:53: warning: 'UITableView' may not respond to '-insertRowsAtIndexPaths:'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:53: warning: (Messages without a matching method signature/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:53: warning: will be assumed to return 'id' and accept/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:53: warning: '...' as arguments.)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:52: warning: unused variable 'indexPath'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController tableView:numberOfRowsInSection:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:65: error: '_objects' undeclared (first use in this function)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController tableView:cellForRowAtIndexPath:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:70: warning: 'UITableView' may not respond to '-dequeueReusableCellWithIdentifier:forIndexPath:'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:72: error: '_objects' undeclared (first use in this function)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController tableView:commitEditingStyle:forRowAtIndexPath:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:86: error: '_objects' undeclared (first use in this function)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:87: error: expected expression before '@' token/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:87: warning: 'UITableView' may not respond to '-deleteRowsAtIndexPaths:'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: At top level:/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:112: error: expected ')' before 'UIStoryboardSegue'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m: In function '-[MasterViewController prepareForSegue:sender:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:114: error: request for member 'secondaryViewController' in something not a structure or union/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:114: warning: no '-destinationViewController' method found/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:118: error: request for member 'secondaryViewController' in something not a structure or union/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m:118: error: '_objects' undeclared (first use in this function)25(4@45"Expected a property attribute before 'strong'423371510#122#154#2(7@118"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371510#18446744073709551615#0#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#9#0#9#0#0"0(13@145"Expected a property attribute before 'strong' in /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.h423371510#18446744073709551615#0#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.h423371472#15#0#15#0#0"0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.h423371472#15#0#15#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'423371510#399#157#2(7@118"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371510#18446744073709551615#0#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#10#0#10#0#0"0(13@148"Expected a property attribute before 'strong' in /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h423371510#18446744073709551615#0#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h422773971#15#0#15#0#0"0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h422773971#15#0#15#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'423371510#556#157#2(7@118"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371510#18446744073709551615#0#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#10#0#10#0#0"0(13@148"Expected a property attribute before 'strong' in /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h423371510#18446744073709551615#0#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h422773971#16#0#16#0#0"0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h422773971#16#0#16#0#19"expected * before *0(4@43"Expected identifier or '(' before '{' token423371510#713#152#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#12#0#12#0#19"expected * before *0(4@79"Request for member 'preferredContentSize' in something not a structure or union423371510#1015#188#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#24#0#24#0#0"0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value423371510#1203#172#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#24#0#24#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value423371510#1375#172#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#24#0#24#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@38"Undeclared selector 'insertNewObject:'423371510#1696#149#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#35#0#35#0#0"0(4@50"'_objects' undeclared (first use in this function)423371510#1999#159#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#47#0#47#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before '@' token423371510#2458#145#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#53#0#53#0#19"expected * before *0(22@59"'UITableView' may not respond to '-insertRowsAtIndexPaths:'423371510#2603#170#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#53#0#53#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)423371510#2773#156#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#53#0#53#0#0"0(22@27"Unused variable 'indexPath'423371510#3212#138#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#52#0#52#0#19"unused variable '*'0(4@50"'_objects' undeclared (first use in this function)423371510#3520#159#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#65#0#65#0#43"'*' undeclared (first use in this function)0(22@83"'UITableView' may not respond to '-dequeueReusableCellWithIdentifier:forIndexPath:'423371510#3849#194#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#70#0#70#0#26"'*' may not respond to '*'0(4@50"'_objects' undeclared (first use in this function)423371510#4043#159#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#72#0#72#0#43"'*' undeclared (first use in this function)0(4@50"'_objects' undeclared (first use in this function)423371510#4387#159#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#86#0#86#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before '@' token423371510#4546#145#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#87#0#87#0#19"expected * before *0(22@59"'UITableView' may not respond to '-deleteRowsAtIndexPaths:'423371510#4691#170#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#87#0#87#0#26"'*' may not respond to '*'0(23@13"At top level:423371510#4861#112#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#0#0#0#0#0"0(4@39"Expected ')' before 'UIStoryboardSegue'423371510#4973#149#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#112#0#112#0#19"expected * before *0(4@82"Request for member 'secondaryViewController' in something not a structure or union423371510#5283#192#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#114#0#114#0#0"0(22@44"No '-destinationViewController' method found423371510#5475#156#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#114#0#114#0#19"no '*' method found0(4@82"Request for member 'secondaryViewController' in something not a structure or union423371510#5631#192#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#118#0#118#0#0"0(4@50"'_objects' undeclared (first use in this function)423371510#5823#160#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m423371472#118#0#118#0#43"'*' undeclared (first use in this function)0(0#0#96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m4317954048#2336"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-generated-files.hmap" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-own-target-headers.hmap" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-all-target-headers.hmap" -iquote "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-project-headers.hmap" "-F/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/include" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources/i386" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources" -include /var/folders/xy/_nn_6hcs2wg4_flb8wzmkz3m0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Presidents-Prefix-behouhkhyrjannevcuydnummshso/Presidents-Prefix.pch -c "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/MasterViewController.m" -o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/MasterViewController.o"1#
+
+CCompileC build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/SecondaryViewController.o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s423371510.356278
+e423371510.454414
+r0
+xCompileC
+xbuild/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/SecondaryViewController.o
+x/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:10:
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h:15: error: expected a property attribute before 'strong'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h:16: error: expected a property attribute before 'strong'
+oIn file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:11:
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h:13: error: expected a property attribute before 'strong'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h:15: error: expected a property attribute before 'weak'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:13: error: expected identifier or '(' before '{' token
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:20: error: no declaration of property 'selectedObject' found in the interface
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m: In function '-[SecondaryViewController awakeFromNib]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:25: error: request for member 'preferredContentSize' in something not a structure or union
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:25: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:25: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m: In function '-[SecondaryViewController viewDidLoad]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:36: warning: undeclared selector 'insertNewObject:'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:39: error: request for member 'detailViewController' in something not a structure or union
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m: In function '-[SecondaryViewController insertNewObject:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:50: error: '_objects' undeclared (first use in this function)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:50: error: (Each undeclared identifier is reported only once
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:50: error: for each function it appears in.)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:55: error: expected expression before '@' token
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:55: warning: 'UITableView' may not respond to '-insertRowsAtIndexPaths:'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:55: warning: (Messages without a matching method signature
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:55: warning: will be assumed to return 'id' and accept
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:55: warning: '...' as arguments.)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:54: warning: unused variable 'indexPath'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m: In function '-[SecondaryViewController tableView:numberOfRowsInSection:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:69: error: '_objects' undeclared (first use in this function)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m: In function '-[SecondaryViewController tableView:cellForRowAtIndexPath:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:74: warning: 'UITableView' may not respond to '-dequeueReusableCellWithIdentifier:forIndexPath:'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:76: error: '_objects' undeclared (first use in this function)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m: In function '-[SecondaryViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:132: error: '_objects' undeclared (first use in this function)
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:133: error: request for member 'detailViewController' in something not a structure or union
+lSLF07#2@107"Compile /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m423371510#423371510#0(5344"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:10:/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h:15: error: expected a property attribute before 'strong'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h:16: error: expected a property attribute before 'strong'In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:11:/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h:13: error: expected a property attribute before 'strong'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h:15: error: expected a property attribute before 'weak'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:13: error: expected identifier or '(' before '{' token/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:20: error: no declaration of property 'selectedObject' found in the interface/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m: In function '-[SecondaryViewController awakeFromNib]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:25: error: request for member 'preferredContentSize' in something not a structure or union/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:25: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:25: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m: In function '-[SecondaryViewController viewDidLoad]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:36: warning: undeclared selector 'insertNewObject:'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:39: error: request for member 'detailViewController' in something not a structure or union/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m: In function '-[SecondaryViewController insertNewObject:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:50: error: '_objects' undeclared (first use in this function)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:50: error: (Each undeclared identifier is reported only once/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:50: error: for each function it appears in.)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:55: error: expected expression before '@' token/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:55: warning: 'UITableView' may not respond to '-insertRowsAtIndexPaths:'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:55: warning: (Messages without a matching method signature/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:55: warning: will be assumed to return 'id' and accept/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:55: warning: '...' as arguments.)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:54: warning: unused variable 'indexPath'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m: In function '-[SecondaryViewController tableView:numberOfRowsInSection:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:69: error: '_objects' undeclared (first use in this function)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m: In function '-[SecondaryViewController tableView:cellForRowAtIndexPath:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:74: warning: 'UITableView' may not respond to '-dequeueReusableCellWithIdentifier:forIndexPath:'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:76: error: '_objects' undeclared (first use in this function)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m: In function '-[SecondaryViewController tableView:didSelectRowAtIndexPath:]':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:132: error: '_objects' undeclared (first use in this function)/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m:133: error: request for member 'detailViewController' in something not a structure or union21(4@45"Expected a property attribute before 'strong'423371510#126#157#2(7@121"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m423371510#18446744073709551615#0#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#10#0#10#0#0"0(13@148"Expected a property attribute before 'strong' in /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h423371510#18446744073709551615#0#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h422773971#15#0#15#0#0"0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h422773971#15#0#15#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'423371510#283#157#2(7@121"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m423371510#18446744073709551615#0#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#10#0#10#0#0"0(13@148"Expected a property attribute before 'strong' in /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h423371510#18446744073709551615#0#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h422773971#16#0#16#0#0"0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.h422773971#16#0#16#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'423371510#566#154#2(7@121"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m423371510#18446744073709551615#0#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#11#0#11#0#0"0(13@145"Expected a property attribute before 'strong' in /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h423371510#18446744073709551615#0#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h422766034#13#0#13#0#0"0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h422766034#13#0#13#0#19"expected * before *0(4@43"Expected a property attribute before 'weak'423371510#720#152#2(7@121"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m423371510#18446744073709551615#0#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#11#0#11#0#0"0(13@143"Expected a property attribute before 'weak' in /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h423371510#18446744073709551615#0#0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h422766034#15#0#15#0#0"0(6@96"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/DetailViewController.h422766034#15#0#15#0#19"expected * before *0(4@43"Expected identifier or '(' before '{' token423371510#872#155#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#13#0#13#0#19"expected * before *0(4@66"No declaration of property 'selectedObject' found in the interface423371510#1027#178#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#20#0#20#0#0"0(4@79"Request for member 'preferredContentSize' in something not a structure or union423371510#1361#191#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#25#0#25#0#0"0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value423371510#1552#175#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#25#0#25#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value423371510#1727#175#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#25#0#25#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@38"Undeclared selector 'insertNewObject:'423371510#2057#152#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#36#0#36#0#0"0(4@79"Request for member 'detailViewController' in something not a structure or union423371510#2209#191#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#39#0#39#0#0"0(4@50"'_objects' undeclared (first use in this function)423371510#2560#162#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#50#0#50#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before '@' token423371510#3028#148#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#55#0#55#0#19"expected * before *0(22@59"'UITableView' may not respond to '-insertRowsAtIndexPaths:'423371510#3176#173#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#55#0#55#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)423371510#3349#159#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#55#0#55#0#0"0(22@27"Unused variable 'indexPath'423371510#3797#141#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#54#0#54#0#19"unused variable '*'0(4@50"'_objects' undeclared (first use in this function)423371510#4114#162#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#69#0#69#0#43"'*' undeclared (first use in this function)0(22@83"'UITableView' may not respond to '-dequeueReusableCellWithIdentifier:forIndexPath:'423371510#4452#197#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#74#0#74#0#26"'*' may not respond to '*'0(4@50"'_objects' undeclared (first use in this function)423371510#4649#162#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#76#0#76#0#43"'*' undeclared (first use in this function)0(4@50"'_objects' undeclared (first use in this function)423371510#4989#163#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#132#0#132#0#43"'*' undeclared (first use in this function)0(4@79"Request for member 'detailViewController' in something not a structure or union423371510#5152#192#0(6@99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m422773971#133#0#133#0#0"0(0#0#99"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m4317954048#2342"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-generated-files.hmap" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-own-target-headers.hmap" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-all-target-headers.hmap" -iquote "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-project-headers.hmap" "-F/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/include" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources/i386" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources" -include /var/folders/xy/_nn_6hcs2wg4_flb8wzmkz3m0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Presidents-Prefix-behouhkhyrjannevcuydnummshso/Presidents-Prefix.pch -c "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/SecondaryViewController.m" -o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/SecondaryViewController.o"1#
+
+CCompileC build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/main.o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s423371510.357842
+e423371510.438459
+r0
+xCompileC
+xbuild/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/main.o
+x/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m:11:
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.h:13: error: expected a property attribute before 'strong'
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m: In function 'main':
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m:15: error: expected expression before '@' token
+lSLF07#2@88"Compile /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m423371510#423371510#0(483"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m:11:/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.h:13: error: expected a property attribute before 'strong'/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m: In function 'main':/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m:15: error: expected expression before '@' token2(4@45"Expected a property attribute before 'strong'423371510#107#145#2(7@102"In file included from /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m423371510#18446744073709551615#0#0(6@80"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m422766034#11#0#11#0#0"0(13@136"Expected a property attribute before 'strong' in /Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.h423371510#18446744073709551615#0#0(6@87"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.h422766034#13#0#13#0#0"0(6@87"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/AppDelegate.h422766034#13#0#13#0#19"expected * before *0(4@36"Expected expression before '@' token423371510#354#129#0(6@80"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m422766034#15#0#15#0#19"expected * before *0(0#0#80"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m4317954048#2304"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-generated-files.hmap" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-own-target-headers.hmap" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-all-target-headers.hmap" -iquote "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-project-headers.hmap" "-F/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/include" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources/i386" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources" -include /var/folders/xy/_nn_6hcs2wg4_flb8wzmkz3m0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Presidents-Prefix-behouhkhyrjannevcuydnummshso/Presidents-Prefix.pch -c "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/main.m" -o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/main.o"1#
+
+CCopyPlistFile "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/PresidentList.plist" Presidents/../../../../../Documents/Presidents/PresidentList.plist
+s423371510.509973
+e423371511.476211
+r1
+xCopyPlistFile
+x/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/PresidentList.plist
+xPresidents/../../../../../Documents/Presidents/PresidentList.plist
+lSLF07#2@71"Copy Presidents/../../../../../Documents/Presidents/PresidentList.plist423371510#423371511#0(0"0(0#0#129"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/../../../../../Documents/Presidents/PresidentList.plist4317954048#496"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Presidents/../../../../../Documents/Presidents/PresidentList.plist --outdir "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app"0#
+
+CCopyStringsFile "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/en.lproj/InfoPlist.strings" Presidents/en.lproj/InfoPlist.strings
+s423371510.922788
+e423371511.487427
+r1
+xCopyStringsFile
+x/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/en.lproj/InfoPlist.strings
+xPresidents/en.lproj/InfoPlist.strings
+lSLF07#2@42"Copy Presidents/en.lproj/InfoPlist.strings423371510#423371511#0(0"0(0#0#100"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/en.lproj/InfoPlist.strings4317954048#549"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Presidents/en.lproj/InfoPlist.strings --outdir "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/en.lproj"0#
+
+CCpResource build/Debug-iphonesimulator/Presidents.app/108-badge.png Presidents/../../../../../Documents/Presidents/108-badge.png
+s423371510.507345
+e423371510.922702
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Presidents.app/108-badge.png
+xPresidents/../../../../../Documents/Presidents/108-badge.png
+lSLF07#2@65"Copy Presidents/../../../../../Documents/Presidents/108-badge.png423371510#423371510#0(0"0(0#0#123"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/../../../../../Documents/Presidents/108-badge.png4317954048#599"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/../../../../../Documents/Presidents/108-badge.png" "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app"0#
+
+CCpResource build/Debug-iphonesimulator/Presidents.app/111-user.png Presidents/../../../../../Documents/Presidents/111-user.png
+s423371510.505631
+e423371510.911701
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Presidents.app/111-user.png
+xPresidents/../../../../../Documents/Presidents/111-user.png
+lSLF07#2@64"Copy Presidents/../../../../../Documents/Presidents/111-user.png423371510#423371510#0(0"0(0#0#122"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/../../../../../Documents/Presidents/111-user.png4317954048#598"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/../../../../../Documents/Presidents/111-user.png" "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app"0#
+
+CCpResource build/Debug-iphonesimulator/Presidents.app/Base.lproj/Main.storyboard Presidents/Base.lproj/Main.storyboard
+s423371511.476293
+e423371511.495318
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Presidents.app/Base.lproj/Main.storyboard
+xPresidents/Base.lproj/Main.storyboard
+lSLF07#2@42"Copy Presidents/Base.lproj/Main.storyboard423371511#423371511#0(0"0(0#0#100"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Base.lproj/Main.storyboard4317954048#587"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Base.lproj/Main.storyboard" "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/Base.lproj"0#
+
+CCpResource build/Debug-iphonesimulator/Presidents.app/Images.xcassets Presidents/Images.xcassets
+s423371510.504195
+e423371510.905946
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Presidents.app/Images.xcassets
+xPresidents/Images.xcassets
+lSLF07#2@31"Copy Presidents/Images.xcassets423371510#423371510#0(0"0(0#0#89"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Images.xcassets4317954048#565"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Images.xcassets" "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app"0#
+
+CGenerateDSYMFile "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app.dSYM" "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/Presidents"
+r0
+
+CLd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/Presidents" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/Info.plist" Presidents/Presidents-Info.plist
+s423371508.942976
+e423371508.983133
+r1
+xProcessInfoPlistFile
+x/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/Info.plist
+xPresidents/Presidents-Info.plist
+lSLF07#2@40"Process Presidents/Presidents-Info.plist423371508#423371508#0(0"0(0#0#95"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Presidents-Info.plist17198337536#577"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Presidents/Presidents-Info.plist -genpkginfo "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app/Info.plist"0#
+
+CProcessPCH /var/folders/xy/_nn_6hcs2wg4_flb8wzmkz3m0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Presidents-Prefix-behouhkhyrjannevcuydnummshso/Presidents-Prefix.pch.gch Presidents/Presidents-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s423371508.983287
+e423371510.105243
+r1
+xProcessPCH
+x/var/folders/xy/_nn_6hcs2wg4_flb8wzmkz3m0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Presidents-Prefix-behouhkhyrjannevcuydnummshso/Presidents-Prefix.pch.gch
+xPresidents/Presidents-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Presidents-Prefix.pch:10:2: warning: #warning "This project uses features only available in iOS SDK 5.0 and later."
+lSLF07#2@43"Precompile Presidents/Presidents-Prefix.pch423371508#423371510#0(190"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Presidents-Prefix.pch:10:2: warning: #warning "This project uses features only available in iOS SDK 5.0 and later."1(22@78"#warning "This project uses features only available in iOS SDK 5.0 and later."423371509#0#190#0(6@95"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Presidents-Prefix.pch422766034#10#0#10#0#12"#warning "*"0(0#0#95"/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Presidents-Prefix.pch4317954048#2167"    cd "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-generated-files.hmap" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-own-target-headers.hmap" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-all-target-headers.hmap" -iquote "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-project-headers.hmap" "-F/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/include" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources/i386" "-I/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources" -c "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/Presidents/Presidents-Prefix.pch" -o /var/folders/xy/_nn_6hcs2wg4_flb8wzmkz3m0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Presidents-Prefix-behouhkhyrjannevcuydnummshso/Presidents-Prefix.pch.gch0#
+
+CTouch "/Users/station1/Desktop/DK Stuff/presidents-no-core/Presidents/build/Debug-iphonesimulator/Presidents.app"
+r0
+

@@ -8,10 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@class DetailViewController;
+@class SecondaryViewController;
 
 @interface MasterViewController : UITableViewController
 
-@property (strong, nonatomic) DetailViewController *detailViewController;
+@property (strong, nonatomic) SecondaryViewController *secondaryViewController;
+@property (nonatomic, retain) NSArray *centuries;
 
 @end

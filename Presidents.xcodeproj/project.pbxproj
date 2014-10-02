@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE34248A193D9FAA00FFDFA1 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE3C70941932E5D2000ADDF2 /* Main_iPad.storyboard */; };
 		FE3C70831932E5D2000ADDF2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE3C70821932E5D2000ADDF2 /* Foundation.framework */; };
 		FE3C70851932E5D2000ADDF2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE3C70841932E5D2000ADDF2 /* CoreGraphics.framework */; };
 		FE3C70871932E5D2000ADDF2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE3C70861932E5D2000ADDF2 /* UIKit.framework */; };
 		FE3C708D1932E5D2000ADDF2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FE3C708B1932E5D2000ADDF2 /* InfoPlist.strings */; };
 		FE3C708F1932E5D2000ADDF2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FE3C708E1932E5D2000ADDF2 /* main.m */; };
 		FE3C70931932E5D2000ADDF2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FE3C70921932E5D2000ADDF2 /* AppDelegate.m */; };
-		FE3C70961932E5D2000ADDF2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE3C70941932E5D2000ADDF2 /* Main.storyboard */; };
 		FE3C70991932E5D2000ADDF2 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE3C70981932E5D2000ADDF2 /* MasterViewController.m */; };
 		FE3C709C1932E5D2000ADDF2 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE3C709B1932E5D2000ADDF2 /* DetailViewController.m */; };
 		FE3C709E1932E5D2000ADDF2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE3C709D1932E5D2000ADDF2 /* Images.xcassets */; };
@@ -22,6 +22,10 @@
 		FE3C70A71932E5D2000ADDF2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE3C70861932E5D2000ADDF2 /* UIKit.framework */; };
 		FE3C70AF1932E5D2000ADDF2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FE3C70AD1932E5D2000ADDF2 /* InfoPlist.strings */; };
 		FE3C70B11932E5D2000ADDF2 /* PresidentsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FE3C70B01932E5D2000ADDF2 /* PresidentsTests.m */; };
+		FE3C70BC1932E767000ADDF2 /* SecondaryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE3C70BB1932E767000ADDF2 /* SecondaryViewController.m */; };
+		FE4A86C819358348004CCAB8 /* 108-badge.png in Resources */ = {isa = PBXBuildFile; fileRef = FE4A86C619358347004CCAB8 /* 108-badge.png */; };
+		FE4A86C919358348004CCAB8 /* 111-user.png in Resources */ = {isa = PBXBuildFile; fileRef = FE4A86C719358348004CCAB8 /* 111-user.png */; };
+		FE4A86CB193583AD004CCAB8 /* PresidentList.plist in Resources */ = {isa = PBXBuildFile; fileRef = FE4A86CA193583AD004CCAB8 /* PresidentList.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,17 +49,22 @@
 		FE3C70901932E5D2000ADDF2 /* Presidents-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Presidents-Prefix.pch"; sourceTree = "<group>"; };
 		FE3C70911932E5D2000ADDF2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FE3C70921932E5D2000ADDF2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		FE3C70951932E5D2000ADDF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FE3C70951932E5D2000ADDF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
 		FE3C70971932E5D2000ADDF2 /* MasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
 		FE3C70981932E5D2000ADDF2 /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
 		FE3C709A1932E5D2000ADDF2 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		FE3C709B1932E5D2000ADDF2 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
-		FE3C709D1932E5D2000ADDF2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FE3C709D1932E5D2000ADDF2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images.xcassets; sourceTree = "<group>"; };
 		FE3C70A31932E5D2000ADDF2 /* PresidentsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PresidentsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE3C70A41932E5D2000ADDF2 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		FE3C70AC1932E5D2000ADDF2 /* PresidentsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PresidentsTests-Info.plist"; sourceTree = "<group>"; };
 		FE3C70AE1932E5D2000ADDF2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FE3C70B01932E5D2000ADDF2 /* PresidentsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresidentsTests.m; sourceTree = "<group>"; };
+		FE3C70BA1932E767000ADDF2 /* SecondaryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondaryViewController.h; sourceTree = "<group>"; };
+		FE3C70BB1932E767000ADDF2 /* SecondaryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondaryViewController.m; sourceTree = "<group>"; };
+		FE4A86C619358347004CCAB8 /* 108-badge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "108-badge.png"; path = "../../../../../Documents/Presidents/108-badge.png"; sourceTree = "<group>"; };
+		FE4A86C719358348004CCAB8 /* 111-user.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "111-user.png"; path = "../../../../../Documents/Presidents/111-user.png"; sourceTree = "<group>"; };
+		FE4A86CA193583AD004CCAB8 /* PresidentList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PresidentList.plist; path = ../../../../../Documents/Presidents/PresidentList.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,13 +126,15 @@
 			children = (
 				FE3C70911932E5D2000ADDF2 /* AppDelegate.h */,
 				FE3C70921932E5D2000ADDF2 /* AppDelegate.m */,
-				FE3C70941932E5D2000ADDF2 /* Main.storyboard */,
+				FE3C70941932E5D2000ADDF2 /* Main_iPad.storyboard */,
 				FE3C70971932E5D2000ADDF2 /* MasterViewController.h */,
 				FE3C70981932E5D2000ADDF2 /* MasterViewController.m */,
 				FE3C709A1932E5D2000ADDF2 /* DetailViewController.h */,
 				FE3C709B1932E5D2000ADDF2 /* DetailViewController.m */,
 				FE3C709D1932E5D2000ADDF2 /* Images.xcassets */,
 				FE3C70891932E5D2000ADDF2 /* Supporting Files */,
+				FE3C70BA1932E767000ADDF2 /* SecondaryViewController.h */,
+				FE3C70BB1932E767000ADDF2 /* SecondaryViewController.m */,
 			);
 			path = Presidents;
 			sourceTree = "<group>";
@@ -131,6 +142,9 @@
 		FE3C70891932E5D2000ADDF2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FE4A86C619358347004CCAB8 /* 108-badge.png */,
+				FE4A86C719358348004CCAB8 /* 111-user.png */,
+				FE4A86CA193583AD004CCAB8 /* PresidentList.plist */,
 				FE3C708A1932E5D2000ADDF2 /* Presidents-Info.plist */,
 				FE3C708B1932E5D2000ADDF2 /* InfoPlist.strings */,
 				FE3C708E1932E5D2000ADDF2 /* main.m */,
@@ -234,8 +248,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				FE3C709E1932E5D2000ADDF2 /* Images.xcassets in Resources */,
+				FE4A86C919358348004CCAB8 /* 111-user.png in Resources */,
+				FE4A86C819358348004CCAB8 /* 108-badge.png in Resources */,
+				FE4A86CB193583AD004CCAB8 /* PresidentList.plist in Resources */,
+				FE34248A193D9FAA00FFDFA1 /* Main_iPad.storyboard in Resources */,
 				FE3C708D1932E5D2000ADDF2 /* InfoPlist.strings in Resources */,
-				FE3C70961932E5D2000ADDF2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +273,7 @@
 			files = (
 				FE3C70931932E5D2000ADDF2 /* AppDelegate.m in Sources */,
 				FE3C70991932E5D2000ADDF2 /* MasterViewController.m in Sources */,
+				FE3C70BC1932E767000ADDF2 /* SecondaryViewController.m in Sources */,
 				FE3C708F1932E5D2000ADDF2 /* main.m in Sources */,
 				FE3C709C1932E5D2000ADDF2 /* DetailViewController.m in Sources */,
 			);
@@ -288,12 +306,12 @@
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		FE3C70941932E5D2000ADDF2 /* Main.storyboard */ = {
+		FE3C70941932E5D2000ADDF2 /* Main_iPad.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				FE3C70951932E5D2000ADDF2 /* Base */,
 			);
-			name = Main.storyboard;
+			name = Main_iPad.storyboard;
 			sourceTree = "<group>";
 		};
 		FE3C70AD1932E5D2000ADDF2 /* InfoPlist.strings */ = {
@@ -387,7 +405,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Presidents/Presidents-Prefix.pch";
 				INFOPLIST_FILE = "Presidents/Presidents-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -400,7 +420,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Presidents/Presidents-Prefix.pch";
 				INFOPLIST_FILE = "Presidents/Presidents-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -464,6 +486,7 @@
 				FE3C70B61932E5D2000ADDF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FE3C70B71932E5D2000ADDF2 /* Build configuration list for PBXNativeTarget "PresidentsTests" */ = {
 			isa = XCConfigurationList;
@@ -472,6 +495,7 @@
 				FE3C70B91932E5D2000ADDF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

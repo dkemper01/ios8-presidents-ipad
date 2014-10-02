@@ -34,10 +34,34 @@
 - (void)configureView
 {
     // Update the user interface for the detail item.
+	//
+	NSDictionary *presidentInfo = [_detailItem objectForKey:@"info"];
+	NSString *urlString = [presidentInfo objectForKey:@"url"];
+	NSURL *url = [NSURL URLWithString:urlString];
+	NSURLRequest *request = [NSURLRequest requestWithURL:url];
+	
+	[self.webView loadRequest:request];
+	
+	/* Simple test of webView page rendering capabilities
+	 *
+     NSString *urlAddress = @"http://www.google.com";
+     
+     //Create a URL object.
+     NSURL *url = [NSURL URLWithString:urlAddress];
+     
+     //URL Requst Object
+     NSURLRequest *requestObj = [NSURLRequest requestWithURL:url];
+     
+     //Load the request in the UIWebView.
+     [webView loadRequest:requestObj];
+     *
+     */
 
-    if (self.detailItem) {
-        self.detailDescriptionLabel.text = [self.detailItem description];
-    }
+}
+
+- (void)viewDidLayoutSubviews
+{
+    self.webView.frame = CGRectMake(0, 0, self.view.frame.size.width, self.view.frame.size.height);
 }
 
 - (void)viewDidLoad
@@ -57,7 +81,7 @@
 
 - (void)splitViewController:(UISplitViewController *)splitController willHideViewController:(UIViewController *)viewController withBarButtonItem:(UIBarButtonItem *)barButtonItem forPopoverController:(UIPopoverController *)popoverController
 {
-    barButtonItem.title = NSLocalizedString(@"Master", @"Master");
+    barButtonItem.title = NSLocalizedString(@"Presidents", @"Presidents");
     [self.navigationItem setLeftBarButtonItem:barButtonItem animated:YES];
     self.masterPopoverController = popoverController;
 }

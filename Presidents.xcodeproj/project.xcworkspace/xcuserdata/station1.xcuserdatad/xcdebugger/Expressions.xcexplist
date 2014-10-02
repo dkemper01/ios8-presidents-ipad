@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[SecondaryViewController viewDidLoad]:SecondaryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedObject">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MasterViewController prepareForSegue:sender:]:MasterViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[segue destinationViewController]">
+            </PersistentString>
+            <PersistentString
+               value = "self.secondaryViewController">
+            </PersistentString>
+            <PersistentString
+               value = "self.secondaryViewController.selectedObject">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
